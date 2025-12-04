@@ -15,7 +15,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 3 SFX.bank
   Name: Level 3 SFX
   StudioPath: bank:/Level 3 SFX
-  lastModified: 639002102144346184
+  lastModified: 639003607658064822
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -62,10 +62,10 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 1 DIA.bank
   Name: Level 1 DIA
   StudioPath: bank:/Level 1 DIA
-  lastModified: 639002102119956257
+  lastModified: 639003607643974359
   FileSizes:
   - Name: Desktop
-    Value: 542176
+    Value: 542272
   Exists: 1
 --- !u!114 &-6718020605786365377
 MonoBehaviour:
@@ -82,38 +82,11 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639002102144475919
+  lastModified: 639003607658092246
   FileSizes:
   - Name: Desktop
     Value: 1832
   Exists: 1
---- !u!114 &-5590654573268823205
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
-  Path: 
-  Guid:
-    Data1: 282994274
-    Data2: 1317281296
-    Data3: -190391619
-    Data4: 1934027716
-  Banks:
-  - {fileID: -6767420105136510100}
-  IsStream: 0
-  Is3D: 1
-  IsOneShot: 1
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 0
 --- !u!114 &-4970720854733818523
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -129,7 +102,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 1 SFX.bank
   Name: Level 1 SFX
   StudioPath: bank:/Level 1 SFX
-  lastModified: 639002102144176417
+  lastModified: 639003607658034639
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -203,7 +176,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 3 ATMO.bank
   Name: Level 3 ATMO
   StudioPath: bank:/Level 3 ATMO
-  lastModified: 639002102144274047
+  lastModified: 639003607658054279
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -250,10 +223,10 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 1 MU.bank
   Name: Level 1 MU
   StudioPath: bank:/Level 1 MU
-  lastModified: 639002102144161389
+  lastModified: 639003607658028052
   FileSizes:
   - Name: Desktop
-    Value: 1832512
+    Value: 1832480
   Exists: 1
 --- !u!114 &-2446252446154920943
 MonoBehaviour:
@@ -270,7 +243,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 2 SFX.bank
   Name: Level 2 SFX
   StudioPath: bank:/Level 2 SFX
-  lastModified: 639002102144268660
+  lastModified: 639003607658050524
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -317,7 +290,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 2 DIA.bank
   Name: Level 2 DIA
   StudioPath: bank:/Level 2 DIA
-  lastModified: 639002102144222778
+  lastModified: 639003607658042647
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -337,7 +310,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 4 ATMO.bank
   Name: Level 4 ATMO
   StudioPath: bank:/Level 4 ATMO
-  lastModified: 639002102144361225
+  lastModified: 639003607658068403
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -433,7 +406,6 @@ MonoBehaviour:
   - {fileID: -4703618396025541836}
   - {fileID: -3755871380569217688}
   - {fileID: -1583865179257822319}
-  - {fileID: -5590654573268823205}
   - {fileID: 2633042902620876951}
   - {fileID: 4281877966407614701}
   - {fileID: 9027882669687292575}
@@ -441,13 +413,14 @@ MonoBehaviour:
   - {fileID: 1806036849538865347}
   - {fileID: -1820348053920102318}
   - {fileID: 6447457764116395859}
+  - {fileID: 3388472614712162336}
   EditorParameters: []
   MasterBanks:
   - {fileID: 215535624429071575}
   StringsBanks:
   - {fileID: -6718020605786365377}
   cacheVersion: 131857
-  cacheTime: 639002102144475919
+  cacheTime: 639003607658092246
   SerializableEventsDict:
   - key: event:/MC 1.1/MC 1.1.4
     index: 0
@@ -459,6 +432,20 @@ MonoBehaviour:
     index: 3
   - key: event:/MC 1.1/MC 1.1.7
     index: 4
+  - key: event:/MC 1.1/MC 1.1.8
+    index: 5
+  - key: event:/MC 1.1/MC 1.1.11
+    index: 6
+  - key: event:/MC 1.1/MC 1.1.6
+    index: 7
+  - key: event:/MC 1.1/MC 1.1.2
+    index: 8
+  - key: event:/MC 1.1/MC 1.1.10
+    index: 9
+  - key: event:/MC 1.1/MC 1.1.3
+    index: 10
+  - key: event:/Level_1_Background_Music
+    index: 11
 --- !u!114 &215535624429071575
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -474,7 +461,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639002102144465915
+  lastModified: 639003607658088682
   FileSizes:
   - Name: Desktop
     Value: 1074
@@ -494,7 +481,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 4 DIA.bank
   Name: Level 4 DIA
   StudioPath: bank:/Level 4 DIA
-  lastModified: 639002102144376527
+  lastModified: 639003607658071895
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -514,7 +501,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 3 MU.bank
   Name: Level 3 MU
   StudioPath: bank:/Level 3 MU
-  lastModified: 639002102144325695
+  lastModified: 639003607658061259
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -561,7 +548,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Levl 1 ATMO.bank
   Name: Levl 1 ATMO
   StudioPath: bank:/Levl 1 ATMO
-  lastModified: 639002102144440414
+  lastModified: 639003607658082253
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -581,7 +568,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 4 SFX.bank
   Name: Level 4 SFX
   StudioPath: bank:/Level 4 SFX
-  lastModified: 639002102144417709
+  lastModified: 639003607658078859
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -628,11 +615,38 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 2 MU.bank
   Name: Level 2 MU
   StudioPath: bank:/Level 2 MU
-  lastModified: 639002102144243644
+  lastModified: 639003607658046552
   FileSizes:
   - Name: Desktop
     Value: 506
   Exists: 1
+--- !u!114 &3388472614712162336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: 
+  Guid:
+    Data1: 282994274
+    Data2: 1317281296
+    Data3: -190391619
+    Data4: 1934027716
+  Banks:
+  - {fileID: -6767420105136510100}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &4281877966407614701
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -675,7 +689,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 4 MU.bank
   Name: Level 4 MU
   StudioPath: bank:/Level 4 MU
-  lastModified: 639002102144407211
+  lastModified: 639003607658075387
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -722,7 +736,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 3 DIA.bank
   Name: Level 3 DIA
   StudioPath: bank:/Level 3 DIA
-  lastModified: 639002102144299896
+  lastModified: 639003607658057792
   FileSizes:
   - Name: Desktop
     Value: 506
@@ -742,7 +756,7 @@ MonoBehaviour:
   Path: fmod/AD_Exitgame/Build/Desktop/Level 2 ATMO.bank
   Name: Level 2 ATMO
   StudioPath: bank:/Level 2 ATMO
-  lastModified: 639002102144202238
+  lastModified: 639003607658038701
   FileSizes:
   - Name: Desktop
     Value: 506
